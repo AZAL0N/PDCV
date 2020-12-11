@@ -9,7 +9,7 @@ nav:
   - Documentation technique:
     - CI CD:
       - Continuous intégration: docs_tech/ci.md
-    - Continuous deployment: docs_tech/cd.md
+      - Continuous deployment: docs_tech/cd.md
   - Documentation manageriale:
     - Pouet pouet: about.md
   - A propos: about.md
