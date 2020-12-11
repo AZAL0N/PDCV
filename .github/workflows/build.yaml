@@ -2,7 +2,7 @@ name: Mise a jour de la doc
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
