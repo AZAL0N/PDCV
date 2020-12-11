@@ -6,12 +6,29 @@ repo_url: https://github.com/Pres-de-chez-vous/PDCV
 
 nav:
   - Accueil: index.md
+  - Documentation technique:
+    - about.md
+  - Documentation manageriale:
+    - about.md
   - A propos: about.md
 
 
 theme: 
   name: material
   highlightjs: true
+  language: fr
+  logo: files/yncrea.png
+  favicon: files/yncrea.png
+  palette:
+    primary: blue
+    accent: blue
+  font: 
+    text: Roboto
+    code: Roboto Mono
+    features:
+      -tabs
+      -instant
+    custom_dir: material
 
 markdown_extensions:
   - codehilite:
@@ -51,3 +68,11 @@ extra_javascript:
     - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
 
 copyright: '&copy; 2020 Louison SARLIN--MAGNUS'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Pres-de-chez-vous
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/repository/docker/
+
