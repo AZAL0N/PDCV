@@ -8,8 +8,8 @@ nav:
   - Accueil: index.md
   - Documentation technique:
     - CI CD:
-      - Continuous intégration: docs/docs_tech/ci.md
-      - Continuous deployment: docs/docs_tech/cd.md
+      - Continuous intégration: docs_tech/ci.md
+    - Continuous deployment: docs_tech/cd.md
   - Documentation manageriale:
     - Pouet pouet: about.md
   - A propos: about.md
