@@ -1,4 +1,1 @@
----
-template: overrides/home.html
-title: Yncréa Cloud Computing
----
+# Près de chez vous
