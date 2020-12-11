@@ -5,8 +5,8 @@ repo_name: Edition
 repo_url: https://github.com/Pres-de-chez-vous/PDCV
 
 nav:
-  - Accueil: index.md
-  - A propos: about.md
+  - Accueil: page/index.md
+  - A propos: page/about.md
 
 
 theme: 
